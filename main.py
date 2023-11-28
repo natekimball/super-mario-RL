@@ -145,7 +145,6 @@ def train(iters):
         history[i] = mario.dashboard.score
     return history
 
-
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         history = train(int(sys.argv[1]))
