@@ -1,2 +1,5 @@
 pygame==2.0.0.dev10
 scipy==1.4.1
+gym-super-mario-bros==7.4.0
+numpy
+tensorflow
